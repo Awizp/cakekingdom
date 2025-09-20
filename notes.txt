@@ -1,0 +1,8 @@
+Media queries for responsive websites
+
+1. @media screen and (max-width: 1200px){}  = 993px - 1200px  - Wide screens 
+2. @media screen and (max-width: 992px){}   = 769px - 992px   - Laptop and Desktop
+3. @media screen and (max-width: 768px){}   = 577px - 768px   - Tablet
+4. @media screen and (max-width: 576px){}   = 1px   - 576px   - Mobile
+
+use only these in your websites
