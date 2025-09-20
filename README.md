@@ -10,14 +10,14 @@ Welcome to **Cake Kingdom**, a beautifully designed landing page for a fictional
 - Simple, accessible HTML structure
 - Fully styled with CSS (no frameworks)
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> <img width="1920" height="1080" alt="cake kingdom" src="https://github.com/user-attachments/assets/6038011a-0484-4f15-ab8b-09f936a35bd3" />
+<img width="1920" height="1080" alt="cake kingdom" src="https://github.com/user-attachments/assets/6038011a-0484-4f15-ab8b-09f936a35bd3" />
 
 
 ## 🚀 Live Demo
 
-> [Click here to view the live site](https://awizp.github.io/cakekingdom/) 
+[live site --> https://awizp.github.io/cakekingdom/](https://awizp.github.io/cakekingdom/) 
 
 ## 🛠️ Built With
 
